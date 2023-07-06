@@ -295,5 +295,6 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/UY24/UY24/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/UY24/UY24/blob/main/snake/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	
 </p>
