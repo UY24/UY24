@@ -205,7 +205,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=UY24&theme=github)](https://github.com/UY24/github-readme-activity-graph)
+[![UY24's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=UY24&theme=github)](https://github.com/UY24/github-readme-activity-graph)
 
  
 </details>
