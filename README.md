@@ -19,7 +19,7 @@
 
 <br><br>
 
-- :school: I am a `pre-final Year ` at B.Tech Computer Science Engineering at [Bennett University](https://www.bennett.edu.in/).
+- :school: I am a `Final Year` student at B.Tech Computer Science Engineering at [Bennett University](https://www.bennett.edu.in/).
 <!-- - :trophy:   `Smart India Hackathon` Finalist. -->
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codechef`, `Leetcode`.
