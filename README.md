@@ -19,12 +19,13 @@
 
 <br><br>
 
-- :school: I am a `Final Year` student at B.Tech Computer Science Engineering at [Bennett University](https://www.bennett.edu.in/).
-- :trophy: Currently having `9.6` CGPA.
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: Currently working as an `AI Developer` at a `UK-based startup`
+- :school: I have graduated with a `B.Tech in Computer Science Engineering` from [Bennett University](https://www.bennett.edu.in/).
+- :trophy: Achieved `9.6` CGPA.
+- :technologist: Passionate about using `Software as a solution to real-world problems`.
 - :computer: I am a competitive programmer at `Codechef`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
+- :student: Continuously learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always exploring `New Technologies`.
 - :thinking: I’m currently open for a new `job opportunity`, For [Contact](https://www.linkedin.com/in/ujjwal-yadav-9026371ba/).
 - 📄 See my portfolio, [Portfolio](https://uy24.netlify.app) and resume [Resume](https://drive.google.com/file/d/1aSqiNICvCdw1SefkPRS0WMcSZRkkOuQ4/view)
 <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
